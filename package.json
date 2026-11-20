@@ -1,0 +1,29 @@
+{
+  "name": "air-mesu-barat-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:web": "vite --host 127.0.0.1",
+    "dev:api": "node --env-file-if-exists=.env server/index.js",
+    "db:setup": "node --env-file-if-exists=.env scripts/setup-db.mjs",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --env-file-if-exists=.env --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3",
+    "pdf-lib": "^1.17.1",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "vite": "^7.2.2",
+    "@vitejs/plugin-react": "^5.1.0"
+  },
+  "engines": { "node": ">=22.12" }
+}
