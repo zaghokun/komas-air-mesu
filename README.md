@@ -141,7 +141,7 @@ Riset selesai berarti hasil penelusuran dan keterbatasannya tersedia. Itu tidak 
 | D03 | Riset, sumber, batas klaim | [Riset desa](docs/RISET-DESA-AIR-MESU.md) |
 | D04 | Rancangan dan keputusan | [Rancangan final](docs/RANCANGAN-FINAL.md), [sistem](docs/RANCANGAN-SISTEM.md), [keputusan](docs/KEPUTUSAN-PROYEK.md) |
 | D05 | Lima layar inti dan keterangannya | delivery/screenshots/, sedang dilengkapi |
-| D06 | Skenario demonstrasi dan hasil pemeriksaan | [Panduan demo](docs/PANDUAN-DEMO.md); catatan verifikasi sedang diselesaikan |
+| D06 | Skenario demonstrasi dan pemeriksaan di laptop | [Panduan demo](docs/PANDUAN-DEMO.md), [checklist verifikasi manual](docs/VERIFIKASI-MANUAL.md) |
 | D07 | Tautan online teruji | WP07, belum tersedia |
 | D08 | Arsip final untuk serah terima | WP07; source lokal sudah berada di folder proyek |
 
@@ -174,6 +174,8 @@ delivery/contoh-surat/       PDF contoh
 Draf laporan DOCX dari pengguna tetap menjadi sumber kebutuhan tugas. Rancangan lama di RANCANGAN-WEBSITE.md, RANCANGAN-SISTEM-AWAL.md, dan README-PLAN-AWAL.md disimpan sebagai riwayat; status aktual mengikuti README ini.
 
 ## Kriteria sebelum presentasi
+
+Pakai [checklist verifikasi manual](docs/VERIFIKASI-MANUAL.md) untuk mencoba alur lengkap dan mencatat hasil di laptop sebelum presentasi.
 
 - [x] Source dapat dibuild dan setup database lokal tersedia.
 - [x] Pengajuan, perbaikan, persetujuan, penolakan, dan PDF diuji melalui API.

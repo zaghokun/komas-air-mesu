@@ -68,6 +68,8 @@ Tombol akun pada layar masuk mengisi kredensial; tekan Masuk. Akun khusus demo, 
 
 ## Urutan sekitar lima menit
 
+Untuk latihan di laptop sebelum presentasi, gunakan [checklist verifikasi manual](VERIFIKASI-MANUAL.md). Checklist mencantumkan hasil yang diharapkan pada setiap tahap dan tempat mencatat kendala.
+
 1. Tampilkan beranda, profil, dan sumber; jelaskan sasaran Barat serta batas verifikasi.
 2. Buka layanan Domisili dan dialog persyaratan contoh.
 3. Masuk sebagai warga, pilih Isi data contoh dan Gunakan berkas contoh, centang konfirmasi, lalu kirim.
